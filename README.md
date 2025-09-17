@@ -10,18 +10,18 @@ A simple command-line chatbot built with Python and the OpenAI API.
 ## ⚡ Usage
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/chatbot-python.git
+   git clone https://github.com/Surabhi6300/Python_Chatbot.git
    cd chatbot-python
 Create a virtual environment and install dependencies:
 
-bash
-Copy code
+```bash
 pip install -r requirements.txt
+
 Run the chatbot:
 
-bash
-Copy code
+```bash
 python main.py
+
 Type your message and the bot will reply. To exit, type exit, quit, or bye.
 
 📦 Requirements
@@ -31,6 +31,5 @@ openai package
 
 Install with:
 
-bash
-Copy code
+```bash
 pip install openai
