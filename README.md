@@ -8,7 +8,7 @@ A simple command-line chatbot built with Python and the OpenAI API.
 - Easy to extend with other models
 
 ## Usage
-1. Clone the repo:
+Clone the repo:
    ```bash
    git clone https://github.com/Surabhi6300/Python_Chatbot.git
    cd Python_Chatbot
